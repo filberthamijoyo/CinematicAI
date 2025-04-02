@@ -154,10 +154,6 @@ User Query → Query Analysis → Hybrid Retrieval → Re-ranking → Context Bu
 - Enhanced reasoning capabilities for comparative movie analysis
 - Multi-modal capabilities to include visual content
 
-## Contributors
-
-- Filbert Hamijoyo
-
 ## License
 
 This project is available for academic and personal use. Please respect the terms of service of any third-party data sources and models used in this project.
