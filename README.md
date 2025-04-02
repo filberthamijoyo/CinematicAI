@@ -65,7 +65,7 @@ The system implements a RAG (Retrieval-Augmented Generation) pipeline:
 ## Repository Structure
 
 - `Cinematic_AI_Assistant_sample.ipynb`: Sample of the main notebook implementation
-- `webscrapping.py`: Script for data collection from IMDb
+- `webscrapping.py`: Script for data collection from IMDb.com
 - `requirements.txt`: Python dependencies
 - `LARGE_FILES.md`: Information about large files not included in the repository
 
@@ -114,7 +114,7 @@ The CinematicAI system has been evaluated across several key performance metrics
    - Adjust parameters in the script for different movie selections
 
 4. **Running the System**:
-   - Follow the Jupyter notebook `Cinematic_AI_Assistant_sample.ipynb` for understanding the implementation structure
+   - Follow the Jupyter notebook `Cinematic_AI.ipynb` for understanding the implementation structure
    - For the complete implementation, refer to the information in LARGE_FILES.md
 
 ## Example Queries
