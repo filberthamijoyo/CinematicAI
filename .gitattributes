@@ -1,0 +1,5 @@
+# Ignore large dataset file in GitHub language statistics
+reviews.csv linguist-generated=true
+
+# Treat notebook as documentation
+*.ipynb linguist-documentation
