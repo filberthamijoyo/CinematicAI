@@ -40,19 +40,18 @@ The system implements a RAG (Retrieval-Augmented Generation) pipeline:
 
 ## 📁 Repository Structure
 
-- `Cinematic_AI_Assistant.ipynb`: Main notebook with the complete implementation
-- `Cinematic_AI_Assistant.pdf`: Detailed report on the project
+- `Cinematic_AI_Assistant_sample.ipynb`: Sample of the main notebook implementation
 - `webscrapping.py`: Script for data collection from IMDb
-- `reviews.csv`: Dataset containing movie reviews and metadata
+- `requirements.txt`: Python dependencies
+- `LARGE_FILES.md`: Information about large files not included in the repository
+
+**Note**: Due to GitHub file size limitations, some files are not included in this repository. See [LARGE_FILES.md](LARGE_FILES.md) for more information.
 
 ## 📋 Setup Instructions
 
 1. **Environment Setup**:
    ```python
-   pip install sentence-transformers pinecone transformers pandas torch rank_bm25 nltk
-   pip install nest_asyncio
-   pip install -U bitsandbytes
-   pip install -U transformers
+   pip install -r requirements.txt
    ```
 
 2. **Configuration**:
@@ -82,8 +81,8 @@ The system implements a RAG (Retrieval-Augmented Generation) pipeline:
    - Adjust parameters in the script for different movie selections
 
 4. **Running the System**:
-   - Follow the Jupyter notebook `Cinematic_AI_Assistant.ipynb` for step-by-step execution
-   - Notebook includes data processing, model initialization, indexing, and query interface
+   - Follow the Jupyter notebook `Cinematic_AI_Assistant_sample.ipynb` for understanding the implementation structure
+   - For the complete implementation, refer to the information in LARGE_FILES.md
 
 ## 💬 Example Queries
 
