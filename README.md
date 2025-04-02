@@ -160,4 +160,4 @@ This project is available for academic and personal use. Please respect the term
 
 ## References
 
-- For more information on the techniques used, please refer to the comprehensive report in `Cinematic_AI_Assistant.pdf`
+- For more information on the techniques used, please refer to the comprehensive report in `Cinematic_AI_Report.pdf`
