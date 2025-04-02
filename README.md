@@ -1,6 +1,6 @@
 # CinematicAI: Intelligent Movie Recommendation Assistant
 
-CinematicAI is an advanced movie recommendation system that leverages Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to provide personalized movie recommendations. The system analyzes user preferences, movie reviews, and metadata to deliver contextually relevant and detailed movie suggestions.
+An advanced conversational AI system for personalized film and TV show interactions that harnesses the power of Retrieval-Augmented Generation (RAG) to provide detailed, contextually rich responses.
 
 ## Features
 
