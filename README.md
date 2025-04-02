@@ -1,4 +1,4 @@
-# CinematicAI: Intelligent Movie Recommendation Assistant
+# CinematicAI: A Retrieval-Augmented Generation System for Personalized Film Recommendations and Intelligent Media Queries
 
 An advanced conversational AI system for personalized film and TV show interactions that harnesses the power of Retrieval-Augmented Generation (RAG) to provide detailed, contextually rich responses.
 
